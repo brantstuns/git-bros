@@ -1,0 +1,11 @@
+{
+  "name": "Git Bros",
+  "version": "0.0.1",
+  "description": "chrome extension for adding groups and teams to assignees or reviewers on the github pull-request screen",
+  "homepage_url": "https://github.com/brantstuns/git-bros",
+  "manifest_version": 2,
+  "minimum_chrome_version": "57",
+  "icons": {
+    "128": "icon.png"
+  }
+}
